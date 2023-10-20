@@ -1,0 +1,430 @@
+.membaca {
+    background-color: #ffeb3a;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .membaca .div {
+    background-color: #ffeb3a;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .membaca .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 968px;
+    top: 56px;
+    left: 0;
+  }
+  
+  .membaca .overlap-group {
+    position: absolute;
+    width: 1364px;
+    height: 952px;
+    top: 16px;
+    left: 50px;
+  }
+  
+  .membaca .vector {
+    position: absolute;
+    width: 280px;
+    height: 140px;
+    top: 50px;
+    left: 5px;
+  }
+  
+  .membaca .awan {
+    width: 358px;
+    height: 228px;
+    top: 724px;
+    left: 354px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .membaca .img {
+    position: absolute;
+    width: 393px;
+    height: 348px;
+    top: 534px;
+    left: 938px;
+    object-fit: cover;
+  }
+  
+  .membaca .vector-2 {
+    position: absolute;
+    width: 317px;
+    height: 176px;
+    top: 603px;
+    left: 0;
+  }
+  
+  .membaca .vector-3 {
+    position: absolute;
+    width: 242px;
+    height: 136px;
+    top: 816px;
+    left: 1121px;
+  }
+  
+  .membaca .rectangle {
+    position: absolute;
+    width: 800px;
+    height: 670px;
+    top: 150px;
+    left: 130px;
+    background-color: #ffffff;
+  }
+  
+  .membaca .image {
+    position: absolute;
+    width: 512px;
+    height: 493px;
+    top: 182px;
+    left: 385px;
+  }
+  
+  .membaca .frame {
+    position: absolute;
+    width: 289px;
+    height: 78px;
+    top: 0px;
+    left: 10px;
+    overflow: hidden;
+  }
+  
+  .membaca .div-wrapper {
+    position: relative;
+    width: 268px;
+    height: 51px;
+    top: 0px;
+    left: 10px;
+    background-color: #fff5a2;
+  }
+  
+  .membaca .text-wrapper {
+    position: absolute;
+    top: 10px;
+    left: 24px;
+    font-family: "MS Outlook-Regular", Helvetica;
+    font-weight: 400;
+    color: #800000;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .membaca .awan-2 {
+    width: 260px;
+    height: 210px;
+    top: 300px;
+    left: 0px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .membaca .vector-4 {
+    position: absolute;
+    width: 247px;
+    height: 216px;
+    top: 96px;
+    left: 1193px;
+  }
+  
+  .membaca .chevron-left {
+    position: absolute;
+    width: 54px;
+    height: 46px;
+    top: 10px;
+    left: 30px;
+  }
+  
+  .membaca .sound {
+    position: absolute;
+    width: 60px;
+    height: 30px;
+    top: 0;
+    left: 1020px;
+  }
+  
+  .membaca .vector-5 {
+    position: absolute;
+    width: 47px;
+    height: 65px;
+    top: 2px;
+    left: 0;
+  }
+  
+  
+  .membaca .overlap-group-wrapper {
+    position: absolute;
+    width: 93px;
+    height: 91px;
+    top: 50px;
+    left: 200px;
+  }
+  
+  .membaca .overlap-group-2 {
+    position: relative;
+    width: 77px;
+    height: 72px;
+    top: 11px;
+    left: 16px;
+    background-color: #fff5a2;
+  }
+  
+  .membaca .rectangle-2 {
+    position: absolute;
+    width: 60px;
+    height: 55px;
+    top: 8px;
+    left: 8px;
+    border-radius: 6px;
+    border: 3px solid;
+    border-color: #000000;
+  }
+  
+  .membaca .vector-6 {
+    position: absolute;
+    width: 3px;
+    height: 54px;
+    top: 9px;
+    left: 38px;
+  }
+  
+  .membaca .vector-7 {
+    position: absolute;
+    width: 59px;
+    height: 3px;
+    top: 35px;
+    left: 8px;
+  }
+  
+  .membaca .overlap-wrapper {
+    position: absolute;
+    width: 84px;
+    height: 83px;
+    top: 54px;
+    left: 130px;
+  }
+  
+  .membaca .rectangle-wrapper {
+    position: relative;
+    width: 77px;
+    height: 72px;
+    top: 7px;
+    left: 4px;
+    background-color: #fff5a2;
+  }
+  
+  .membaca .rectangle-3 {
+    position: relative;
+    width: 60px;
+    height: 55px;
+    top: 8px;
+    left: 9px;
+    border-radius: 6px;
+    border: 3px solid;
+    border-color: #000000;
+  }
+  
+  .membaca .overlap-2 {
+    position: absolute;
+    width: 85px;
+    height: 80px;
+    top: 61px;
+    left: 730px;
+  }
+  
+  .membaca .lingkaran-menu {
+    position: absolute;
+    width: 84px;
+    height: 80px;
+    top: 0;
+    left: 1px;
+  }
+  
+  .membaca .overlap-3 {
+    position: relative;
+    width: 80px;
+    height: 80px;
+    left: 0px;
+  }
+  
+  .membaca .star {
+    top: 0;
+    position: absolute;
+    width: 80px;
+    height: 72px;
+    left: 0px;
+  }
+  
+  .membaca .star-2 {
+    top: 8px;
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 0px;
+  }
+  
+  .membaca .frame-2 {
+    position: absolute;
+    width: 85px;
+    height: 79px;
+    top: 0;
+    left: 0;
+  }
+  
+  .membaca .line {
+    position: absolute;
+    width: 65px;
+    height: 4px;
+    top: 40px;
+    left: 0px;
+  }
+  
+  .membaca .text-wrapper-2 {
+    width: 34px;
+    top: -4px;
+    left: 27px;
+    position: absolute;
+    font-family: "Traditional Arabic-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 128px;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    direction: rtl;
+  }
+  
+  .membaca .overlap-4 {
+    position: absolute;
+    width: 100px;
+    height: 90px;
+    top: 58px;
+    left: 920px;
+  }
+  
+  .membaca .lingkaran-menu-2 {
+    top: 0px;
+    left: 7px;
+    position: absolute;
+    width: 84px;
+    height: 80px;
+  }
+  
+  .membaca .line-wrapper {
+    position: absolute;
+    width: 91px;
+    height: 87px;
+    top: 0;
+    left: 16px;
+  }
+  
+  .membaca .line-2 {
+    position: absolute;
+    width: 65px;
+    height: 4px;
+    top: 48px;
+    left: 16px;
+  }
+  
+  .membaca .overlap-5 {
+    position: absolute;
+    width: 100px;
+    height: 81px;
+    top: 60px;
+    left: 830px;
+  }
+  
+  .membaca .text-wrapper-3 {
+    width: 46px;
+    top: 4px;
+    left: 20px;
+    position: absolute;
+    font-family: "Traditional Arabic-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 128px;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    direction: rtl;
+  }
+  
+  .membaca .img-wrapper {
+    position: absolute;
+    width: 100px;
+    height: 72px;
+    top: 9px;
+    left: 0;
+  }
+  
+  .membaca .line-3 {
+    position: absolute;
+    width: 72px;
+    height: 5px;
+    top: 40px;
+    left: 18px;
+  }
+  
+  .membaca .text-wrapper-4 {
+    width: 55px;
+    top: 14px;
+    left: 1001px;
+    position: absolute;
+    font-family: "Traditional Arabic-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 128px;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    direction: rtl;
+  }
+  
+  .rectangle ul li{
+    font-size: 55px;
+    margin: 2px;
+    text-align: center;
+    margin-left: 75px;
+    text-shadow: #d4d4d4;
+  }
+  .rectangle1 ul li{
+    font-size: 57px;
+    margin: 30px;
+    text-align: center;
+    margin-left: 50px;
+    text-shadow: #d4d4d4;
+  }
+  .rectangle2 ul li{
+    font-size: 40px;
+    margin: 25px;
+    text-align: center;
+    margin-left: 50px;
+    text-shadow: #d4d4d4;
+  }
+  .rectangle3 ul li{
+    font-size: 55px;
+    margin: 25px;
+    text-align: center;
+    margin-left: 50px;
+    text-shadow: #d4d4d4;
+  }
+  .rectangle4 ul li{
+    font-size: 60px;
+    margin: 30px;
+    text-align: center;
+    margin-left: 50px;
+    text-shadow: #d4d4d4;
+  }

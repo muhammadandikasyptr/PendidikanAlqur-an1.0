@@ -1,0 +1,119 @@
+*
+.huruf {
+    background-color: yellow;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.div {
+    background-color: yellow;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+}
+
+.overlap-group {
+    position: absolute;
+    width: 718px;
+    height: 622px;
+    top: 87px;
+    left: 722px;
+}
+
+.awan{
+    position: absolute;
+    width: 346px;
+    height: 363px;
+    top: 0;
+    left: 372px;
+    object-fit: cover;
+}
+
+.gambar-2{
+    position: absolute;
+    width: 460px;
+    height: 422px;
+    top: 200px;
+    left: 10px;
+    object-fit: cover;
+}
+
+.arrow-right {
+    top: 347px;
+    left: 509px;
+    position: absolute;
+    width: 108px;
+    height: 156px;
+}
+
+.overlap{
+    position: absolute;
+    width: 673px;
+    height: 709px;
+    top: 0;
+    left: 0;
+}
+
+.awan2 {
+    position: absolute;
+    width: 348px;
+    height: 353px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+
+.gambar-1 {
+    position: absolute;
+    width: 455px;
+    height: 419px;
+    top: 290px;
+    left: 218px;
+}
+
+.back{
+    position: absolute;
+    width: 63px;
+    height: 64px;
+    top: 55px;
+    left: 43px;
+}
+
+.arrow-left {
+    top: 422px;
+    left: 61px;
+    position: absolute;
+    width: 108px;
+    height: 156px;
+}
+
+.text-wrapper{
+    position: absolute;
+    width: 179px;
+    top: 775px;
+    left: 365px;
+    font-family: "Piedra-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 84px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.text-wrapper-2 {
+    position: absolute;
+    width: 208px;
+    top: 765px;
+    left: 850px;
+    font-family: "Piedra-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 84px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}

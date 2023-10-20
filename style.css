@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:wght@400;600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins";
+}
+
+body{
+    background: yellow;
+}
+
+.icon{
+    height: 80px;
+    left: 0;
+    position: absolute;
+    top: 8px;
+    width: 78px;
+}
+
+.dots-vertical{
+    height: 82px;
+    left: 1290px;
+    position: absolute;
+    top: 0;
+    width: 104px;
+}
+
+.wrapper{
+    width: 330px;
+    padding: 2rem 1rem;
+    margin: 50px auto;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0,1);
+}
+
+h1{
+    font-size: 2rem;
+    color: black;
+    margin-bottom: 1.2rem;
+}
+
+form input{
+    width: 92%;
+    outline: none;
+    border: 1px solid white;
+    padding: 12px 20px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    background: whitesmoke;
+}
+
+button{
+    font-size: 1rem;
+    margin-top: 1.8rem;
+    padding: 10px 0;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    width: 98%;
+    color: white;
+    cursor: pointer;
+    background: blue;
+}
+
+button:hover{
+    background: blue;
+}
+
+input:focus{
+    border: 1px solid white;
+}
+
+.terms{
+    margin-top: 0.2rem;
+}
+
+.terms input{
+    height: 1em;
+    width: 1em;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.terms label{
+    font-size: 0.6rem;
+}
+
+.terms a{
+    color: blue;
+    text-decoration: none;
+}
+
+.member{
+    font-size: 0.8rem;
+    margin-top: 1.4rem;
+    color: gray;
+}
+
+.member a{
+    color: blue;
+    text-decoration: none;
+}
+
+.recover{
+    text-align: right;
+    font-size: 0.7rem;
+    margin: 0.3rem 1.4rem 0 0;
+}
+
+.recover a{
+    text-decoration: none;
+    color: gray;
+}
+
+.homepage{
+    min-height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.homepage::before{
+    content: '';
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.image{
+    position: absolute;
+    bottom: 200px;
+    width: 200px;
+    left: 45%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+image a{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+}
+
+.membaca{
+    min-height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.imagebaca{
+    position: relative;
+    bottom: 750px;
+    width: 700px;
+    left: 32%;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.imagebaca2{
+    position: relative;
+    bottom: 500px;
+    width: 450px;
+    left: 0;
+    display: inline-flex;
+    justify-content: space-between;
+}
+.imagebaca a{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    width: 150%;
+    height: 100%;
+    padding: 20px 0;
+}
+
+.imagemodebaca{
+    position: relative;
+    bottom: 750px;
+    width: 700px;
+    left: 32%;
+    display: inline-flex;
+    justify-content: space-between;
+}
+

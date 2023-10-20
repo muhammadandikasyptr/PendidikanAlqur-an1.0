@@ -1,0 +1,73 @@
+*
+.homepage{
+    background-color: #ffeb3a;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.overlap-wrapper{
+    background-color: #ffeb3a;
+    width: 1440px;
+    height: 1024px;
+}
+
+.overlap{
+    position: relative;
+    left: 31px;
+    width: 1409px;
+    height: 1024px;
+}
+
+.overlap-group{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1409px;
+    height: 1024px;
+}
+
+.icon{
+    position: absolute;
+    width: 78px;
+    height: 80px;
+    top: 50px;
+    left: 100px;
+}
+
+.dots-vertical{
+    position: absolute;
+    width: 63px;
+    height: 64px;
+    top: 41px;
+    left: 1200px;
+}
+
+.menulis{
+    top: 650px;
+    left: 560px;
+    position: absolute;
+    width: 230px;
+    height: 208px;
+    object-fit: cover;
+}
+
+.membaca{
+    top: 650px;
+    left: 230px;
+    position: absolute;
+    width: 230px;
+    height: 208px;
+    object-fit: cover;
+}
+
+.menonton{
+    top: 650px;
+    left: 890px;
+    position: absolute;
+    width: 230px;
+    height: 208px;
+    object-fit: cover;
+}

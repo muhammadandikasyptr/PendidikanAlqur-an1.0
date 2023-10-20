@@ -1,0 +1,137 @@
+.membaca {
+    background-color: #ffeb3a;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .membaca .overlap-wrapper {
+    background-color: #ffeb3a;
+    width: 1440px;
+    height: 1024px;
+  }
+  
+  .membaca .overlap {
+    position: relative;
+    left: 31px;
+    width: 1409px;
+    height: 1024px;
+  }
+  
+  .membaca .overlap-group {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1409px;
+    height: 1024px;
+  }
+  
+  .membaca .awan {
+    position: absolute;
+    width: 369px;
+    height: 277px;
+    top: 95px;
+    left: 393px;
+    object-fit: cover;
+  }
+  
+  .membaca .frame {
+    position: absolute;
+    width: 237px;
+    height: 214px;
+    top: 58px;
+    left: 940px;
+    background-image: url(./img/awan-1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .membaca .img {
+    width: 277px;
+    top: 58px;
+    left: 5px;
+    position: absolute;
+    height: 238px;
+    object-fit: cover;
+  }
+  
+  
+  .membaca .icon {
+    position: absolute;
+    width: 78px;
+    height: 80px;
+    top: 34px;
+    left: 100px;
+  }
+  
+  .membaca .bg-belajar-membaca {
+    position: absolute;
+    width: 1211px;
+    height: 1024px;
+    top: 0;
+    left: 73px;
+    object-fit: cover;
+  }
+  
+  .membaca .text-wrapper {
+    position: absolute;
+    top: 190px;
+    left: 425px;
+    font-family: "MS Outlook-Regular", Helvetica;
+    font-weight: 400;
+    color: #800000;
+    font-size: 52px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .membaca .iqro {
+    top: 291px;
+    left: 311px;
+    position: absolute;
+    width: 195px;
+    height: 174px;
+  }
+  
+  .membaca .iqro-2 {
+    top: 291px;
+    left: 581px;
+    position: absolute;
+    width: 195px;
+    height: 174px;
+  }
+  
+  .membaca .iqro-3 {
+    top: 296px;
+    left: 835px;
+    position: absolute;
+    width: 195px;
+    height: 174px;
+  }
+  
+  .membaca .iqro-4 {
+    top: 520px;
+    left: 437px;
+    position: absolute;
+    width: 195px;
+    height: 174px;
+  }
+  
+  .membaca .iqro-5 {
+    top: 520px;
+    left: 749px;
+    position: absolute;
+    width: 195px;
+    height: 174px;
+  }
+  
+  .membaca .chevron-left {
+    position: absolute;
+    width: 63px;
+    height: 64px;
+    top: 41px;
+    left: 1200px;
+  }
+  

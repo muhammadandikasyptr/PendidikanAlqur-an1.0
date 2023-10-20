@@ -1,0 +1,115 @@
+.a-i-u {
+    background-color: #ffeb3a;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    padding: 0;
+  }
+  
+  .a-i-u .div {
+    background-color: #ffeb3a;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .a-i-u .overlap {
+    position: absolute;
+    width: 346px;
+    height: 544px;
+    top: 46px;
+    left: 1094px;
+  }
+  
+  .a-i-u .awan {
+    position: absolute;
+    width: 230px;
+    height: 190px;
+    top: 41px;
+    left: 0px;
+    object-fit: cover;
+  }
+  
+  .a-i-u .arrow-block-right {
+    top: 388px;
+    left: 80x;
+    position: absolute;
+    width: 90px;
+    height: 100px;
+  }
+  
+  .a-i-u .sound {
+    position: absolute;
+    width: 82px;
+    height: 69px;
+    top: 0;
+    left: 10px;
+  }
+  
+  .a-i-u .vector {
+    position: absolute;
+    width: 47px;
+    height: 65px;
+    top: 2px;
+    left: 0;
+  }
+  
+  
+  .a-i-u .overlap-group {
+    position: absolute;
+    width: 1079px;
+    height: 806px;
+    top: 0;
+    left: 0;
+  }
+  
+  .a-i-u .img {
+    position: absolute;
+    width: 348px;
+    height: 353px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .a-i-u .huruf {
+    position: absolute;
+    width: 798px;
+    height: 504px;
+    top: 302px;
+    left: 210px;
+  }
+  
+  .a-i-u .chevron-left {
+    position: absolute;
+    width: 63px;
+    height: 64px;
+    top: 63px;
+    left: 41px;
+  }
+  
+  .a-i-u .arrow-block-left {
+    top: 422px;
+    left: 31px;
+    position: absolute;
+    width: 90px;
+    height: 100px;
+  }
+  
+  .a-i-u .frame {
+    position: absolute;
+    width: 93px;
+    height: 91px;
+    top: 187px;
+    left: 200px;
+  }
+  
+  .a-i-u .frame-2 {
+    position: absolute;
+    width: 84px;
+    height: 83px;
+    top: 191px;
+    left: 300px;
+  }
+  
